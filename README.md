@@ -1,4 +1,4 @@
-# Earing Stand
+# Earring Stand
 ## Customizeable Magnet Modular Earing Stand
 
 This project was made for my sister to display her beautiful earrings that usually are stored away and hidden. This way, she can have a display, see it, and even maybe swap it more likely for her own daily taste. I found this simlar design on cult 3D by LAZYBEAR3D, but I didn't feel like spending money.
