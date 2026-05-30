@@ -10,5 +10,9 @@ This project was made for my sister to display her beautiful earrings that usual
 
 I hope you enjoy it!
 
+## Issues
+I haven't printed it out to see if the tolerances are good.
+Although the file for "Base and Hexagon Print File" isn't rendering, the file should still work when imported into a slicer.
+
 <img width="741" height="630" alt="image" src="https://github.com/user-attachments/assets/68b62e07-fd7d-422c-a9cc-c6c4f313a179" />
 
