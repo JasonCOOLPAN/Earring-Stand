@@ -3,6 +3,9 @@
 
 This project was made for my sister to display her beautiful earrings that usually are stored away and hidden. This way, she can have a display, see it, and even maybe swap it more likely for her own daily taste. I found this simlar design on cult 3D by LAZYBEAR3D, but I didn't feel like spending money.
 
+<br>
+All the different types of hexagons are in the "Hexagon" folder to print. The folder named "Other Prints" has the file for the base, whale, and the ribbon.
+
 ## Tools/Material Needed
 * 6mm x 1mm magnets (volume depends on how many earings you want to hang. the two base hexagons have total of 14 magnets) (Each modular hexagon has 12 magnets)
 * A 3D printer
@@ -12,7 +15,6 @@ I hope you enjoy it!
 
 ## Issues
 I haven't printed it out to see if the tolerances are good.
-Although the file for "Base and Hexagon Print File" isn't rendering, the file should still work when imported into a slicer.
 
 <img width="741" height="630" alt="image" src="https://github.com/user-attachments/assets/68b62e07-fd7d-422c-a9cc-c6c4f313a179" />
 
